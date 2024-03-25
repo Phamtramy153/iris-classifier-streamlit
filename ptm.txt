@@ -5,10 +5,3 @@ numpy
 matplotlib
 KNeighborsClassifier
 load_iris
-<<<<<<< HEAD
-scikit-learn==0.24.1
-sklearn.neighbors
-sklearn.datasets
-=======
-scikit-learn==0.24.1
->>>>>>> 243deed (Resolve merge conflicts)
